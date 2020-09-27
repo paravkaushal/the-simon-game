@@ -1,4 +1,4 @@
 # the-simon-game
-Tough enough for adults but easy enough for young children, this classic card matching game can help anyone strengthen his or her memory.
+The game requires the player to repeat certain patterns that the game displays in the form of tones and blinking lights. This game is an excellent way to build divided attention and improve processing speed.
 
  https://paravkaushal.github.io/the-simon-game/
